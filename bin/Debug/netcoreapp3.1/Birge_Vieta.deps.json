@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Birge_Vieta/1.0.0": {
+        "runtime": {
+          "Birge_Vieta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Birge_Vieta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

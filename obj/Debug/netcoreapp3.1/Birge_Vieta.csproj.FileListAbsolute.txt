@@ -1,0 +1,11 @@
+C:\Users\Juan\Source\Repos\Birge_Vieta\Birge_Vieta\bin\Debug\netcoreapp3.1\Birge_Vieta.exe
+C:\Users\Juan\Source\Repos\Birge_Vieta\Birge_Vieta\bin\Debug\netcoreapp3.1\Birge_Vieta.deps.json
+C:\Users\Juan\Source\Repos\Birge_Vieta\Birge_Vieta\bin\Debug\netcoreapp3.1\Birge_Vieta.runtimeconfig.json
+C:\Users\Juan\Source\Repos\Birge_Vieta\Birge_Vieta\bin\Debug\netcoreapp3.1\Birge_Vieta.runtimeconfig.dev.json
+C:\Users\Juan\Source\Repos\Birge_Vieta\Birge_Vieta\bin\Debug\netcoreapp3.1\Birge_Vieta.dll
+C:\Users\Juan\Source\Repos\Birge_Vieta\Birge_Vieta\bin\Debug\netcoreapp3.1\Birge_Vieta.pdb
+C:\Users\Juan\Source\Repos\Birge_Vieta\Birge_Vieta\obj\Debug\netcoreapp3.1\Birge_Vieta.csprojAssemblyReference.cache
+C:\Users\Juan\Source\Repos\Birge_Vieta\Birge_Vieta\obj\Debug\netcoreapp3.1\Birge_Vieta.AssemblyInfoInputs.cache
+C:\Users\Juan\Source\Repos\Birge_Vieta\Birge_Vieta\obj\Debug\netcoreapp3.1\Birge_Vieta.AssemblyInfo.cs
+C:\Users\Juan\Source\Repos\Birge_Vieta\Birge_Vieta\obj\Debug\netcoreapp3.1\Birge_Vieta.dll
+C:\Users\Juan\Source\Repos\Birge_Vieta\Birge_Vieta\obj\Debug\netcoreapp3.1\Birge_Vieta.pdb
